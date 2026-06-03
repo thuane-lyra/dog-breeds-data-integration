@@ -1,0 +1,43 @@
+=== GUNDOG ===
+   - English Setter (Large, origem: England)
+   - Irish Setter (Large, origem: Ireland)
+ 
+ === HOUND ===
+   - Basenji (Small, origem: Democratic Republic of the Congo)
+   - Basset Hound (Medium-Large, origem: France)
+   - Greyhound (Large, origem: England)
+ 
+ === PASTORAL ===
+   - Australian Shepherd (Medium, origem: United States)
+   - Bearded Collie (Medium, origem: Scotland)
+ 
+ === SEM GRUPO ===
+   - beagle (Sem informação, origem: England)
+ 
+ === TERRIER ===
+   - Australian Terrier (Small, origem: Australia)
+   - Bull Terrier (Medium, origem: England)
+ 
+ === TOY ===
+   - Affenpinscher (Small, origem: Germany)
+   - Australian Silky Terrier (Small, origem: Australia)
+   - Bichon Frise (Small, origem: Canary Islands)
+   - Cavalier King Charles Spaniel (Small, origem: United Kingdom)
+   - King Charles Spaniel (Small, origem: England)
+ 
+ === UTILITY ===
+   - Boston Terrier (Small, origem: United States)
+   - Bulldog (Medium, origem: England)
+   - Chow Chow (Medium, origem: China)
+   - Japanese Spitz (Small, origem: Japan)
+   - Lhasa Apso (Small, origem: Tibet)
+   - Schnauzer (Medium, origem: Germany)
+   - Shar Pei (Medium, origem: China)
+ 
+ === WORKING ===
+   - Alaskan Malamute (Large, origem: Alaska)
+   - Bernese Mountain Dog (Large, origem: Switzerland)
+   - Great Dane (Extra large, origem: Germany)
+   - Hovawart (Large, origem: Germany)
+   - Rottweiler (Large, origem: Germany)
+ 

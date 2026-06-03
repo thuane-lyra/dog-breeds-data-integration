@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resultadoPesquisa>
+   <breedId>25</breedId>
+   <fotoUrl>https://www.royalkennelclub.com/media/1353/beagle-illustration.jpg?rmode=crop&amp;ranchor=center&amp;width=81&amp;height=81&amp;v=1d5750b1d4d6880</fotoUrl>
+   <grupo>Hound</grupo>
+   <porte>Small</porte>
+   <cuidadosPelo>Once a week</cuidadosPelo>
+   <nivelExercicio>Up to 1 hour per day</nivelExercicio>
+   <cores>Tricolour or white in combination with black &amp;amp; tan/brown or brown/tan or yellow/white</cores>
+   <paisOrigem>England</paisOrigem>
+   <esperancaVida>12</esperancaVida>
+   <tamanhoPelo>Short</tamanhoPelo>
+   <tamanhoDetalhes>
+      <altura>
+         <geral>
+            <min>33.0</min>
+            <max>41.0</max>
+            <unidade>cm</unidade>
+         </geral>
+      </altura>
+      <peso>
+         <macho>
+            <min>10.0</min>
+            <max>11.3</max>
+            <unidade>kg</unidade>
+         </macho>
+         <femea>
+            <min>9.1</min>
+            <max>10.4</max>
+            <unidade>kg</unidade>
+         </femea>
+      </peso>
+   </tamanhoDetalhes>
+</resultadoPesquisa>

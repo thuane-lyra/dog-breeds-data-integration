@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="utf-8"?>
+<detalhes>
+     <breedDetail>
+          <breedId>1</breedId>
+          <fotoUrl>https://www.royalkennelclub.com/media/1598/affenpinscher.jpg?rmode=crop&amp;ranchor=center&amp;width=81&amp;height=81&amp;v=1d8265fb5361a40</fotoUrl>
+          <grupo>Toy</grupo>
+          <porte>Small</porte>
+          <cuidadosPelo>More than once a week</cuidadosPelo>
+          <nivelExercicio>Up to 1 hour per day</nivelExercicio>
+          <cores>black</cores>
+          <paisOrigem>Germany</paisOrigem>
+          <esperancaVida>12</esperancaVida>
+          <tamanhoPelo>Medium</tamanhoPelo>
+          <tamanhoDetalhes>
+               <altura>
+                    <geral>
+                         <min>25.0</min>
+                         <max>30.0</max>
+                         <unidade>cm</unidade>
+                    </geral>
+               </altura>
+               <peso>
+                    <geral>
+                         <min>4.0</min>
+                         <max>6.0</max>
+                         <unidade>kg</unidade>
+                    </geral>
+               </peso>
+          </tamanhoDetalhes>
+     </breedDetail>
+     <breedDetail>
+          <breedId>2</breedId>
+          <fotoUrl>https://www.royalkennelclub.com/media/2941/greyhound-illustration.jpg?rmode=crop&amp;ranchor=center&amp;width=81&amp;height=81&amp;v=1d5750c46855c20</fotoUrl>
+          <grupo>Hound</grupo>
+          <porte>Large</porte>
+          <cuidadosPelo>Once a week</cuidadosPelo>
+          <nivelExercicio>Up to 1 hour per day</nivelExercicio>
+          <cores>Não encontrado</cores>
+          <paisOrigem>England</paisOrigem>
+          <esperancaVida>10</esperancaVida>
+          <tamanhoPelo>Short</tamanhoPelo>
+          <tamanhoDetalhes>
+               <altura>
+                    <macho>
+                         <min>71.0</min>
+                         <max>76.0</max>
+                         <unidade>cm</unidade>
+                    </macho>
+                    <femea>
+                         <min>68.0</min>
+                         <max>71.0</max>
+                         <unidade>cm</unidade>
+                    </femea>
+               </altura>
+               <peso>
+                    <macho>
+                         <min>27.0</min>
+                         <max>40.0</max>
+                         <unidade>kg</unidade>
+                    </macho>
+                    <femea>
+                         <min>25.0</min>
+                         <max>34.0</max>
+                         <unidade>kg</unidade>
+                    </femea>
+               </peso>
+          </tamanhoDetalhes>
+     </breedDetail>
+     <breedDetail>
+          <breedId>3</breedId>
+          <fotoUrl>https://www.royalkennelclub.com/media/2974/rottweiler.jpg?rmode=crop&amp;ranchor=center&amp;width=81&amp;height=81&amp;v=1d826642ee05af0</fotoUrl>
+          <grupo>Working</grupo>
+          <porte>Large</porte>
+          <cuidadosPelo>Once a week</cuidadosPelo>
+          <nivelExercicio>More than 2 hours per day</nivelExercicio>
+          <cores>Black and tan, rust, and mahogany</cores>
+          <paisOrigem>Germany</paisOrigem>
+          <esperancaVida>10</esperancaVida>
+          <tamanhoPelo>Short</tamanhoPelo>
+          <tamanhoDetalhes>
+               <altura>
+                    <macho>
+                         <min>61.0</min>
+                         <max>69.0</max>
+                         <unidade>cm</unidade>
+                    </macho>
+                    <femea>
+                         <min>56.0</min>
+                         <max>63.0</max>
+                         <unidade>cm</unidade>
+                    </femea>
+               </altura>
+               <peso>
+                    <macho>
+                         <min>50.0</min>
+                         <max>60.0</max>
+                         <unidade>kg</unidade>
+                    </macho>
+                    <femea>
+                         <min>35.0</min>
+                         <max>48.0</max>
+                         <unidade>kg</unidade>
+                    </femea>
+               </peso>
+          </tamanhoDetalhes>
+     </breedDetail>
+     <breedDetail>
+          <breedId>4</breedId>
+          <fotoUrl>https://www.royalkennelclub.com/media/2906/alaskan-malamute-illustration.jpg?rmode=crop&amp;ranchor=center&amp;width=81&amp;height=81&amp;v=1d57826c8ab7d70</fotoUrl>
+          <grupo>Working</grupo>
+          <porte>Large</porte>
+          <cuidadosPelo>Every day</cuidadosPelo>
+          <nivelExercicio>More than 2 hours per day</nivelExercicio>
+          <cores>Grey, sable, black, or red, always with white, as well as all white and brown</cores>
+          <paisOrigem>Alaska</paisOrigem>
+          <esperancaVida>10</esperancaVida>
+          <tamanhoPelo>Medium</tamanhoPelo>
+          <tamanhoDetalhes>
+               <altura>
+                    <macho>
+                         <min>64.0</min>
+                         <max>64.0</max>
+                         <unidade>cm</unidade>
+                    </macho>
+                    <femea>
+                         <min>58.0</min>
+                         <max>58.0</max>
+                         <unidade>cm</unidade>
+                    </femea>
+               </altura>
+               <peso>
+                    <macho>
+                         <min>38.0</min>
+                         <max>38.0</max>
+                         <unidade>kg</unidade>
+                    </macho>
+                    <femea>
+                         <min>34.0</min>
+                         <max>34.0</max>
+                         <unidade>kg</unidade>
+                    </femea>
+               </peso>
+          </tamanhoDetalhes>
+     </breedDetail>
+     <breedDetail>
+          <breedId>5</breedId>
+          <fotoUrl>https://www.royalkennelclub.com/media/1680/chow-chow-illustration.jpg?rmode=crop&amp;ranchor=center&amp;width=81&amp;height=81&amp;v=1d5781911042ee0</fotoUrl>
+          <grupo>Utility</grupo>
+          <porte>Medium</porte>
+          <cuidadosPelo>Every day</cuidadosPelo>
+          <nivelExercicio>Up to 1 hour per day</nivelExercicio>
+          <cores>Red (light gold to deep red-brown)</cores>
+          <paisOrigem>China</paisOrigem>
+          <esperancaVida>10</esperancaVida>
+          <tamanhoPelo>Medium</tamanhoPelo>
+          <tamanhoDetalhes>
+               <altura>
+                    <geral>
+                         <min>43.0</min>
+                         <max>56.0</max>
+                         <unidade>cm</unidade>
+                    </geral>
+               </altura>
+               <peso>
+                    <macho>
+                         <min>18.0</min>
+                         <max>41.0</max>
+                         <unidade>kg</unidade>
+                    </macho>
+                    <femea>
+                         <min>16.0</min>
+                         <max>39.0</max>
+                         <unidade>kg</unidade>
+                    </femea>
+               </peso>
+          </tamanhoDetalhes>
+     </breedDetail>
+     <breedDetail>
+          <breedId>6</breedId>
+          <fotoUrl>https://www.royalkennelclub.com/media/2959/lhasa-apso-illustration.jpg?rmode=crop&amp;ranchor=center&amp;width=81&amp;height=81&amp;v=1d578236f700b20</fotoUrl>
+          <grupo>Utility</grupo>
+          <porte>Small</porte>
+          <cuidadosPelo>Every day</cuidadosPelo>
+          <nivelExercicio>Up to 1 hour per day</nivelExercicio>
+          <cores>black, red, dark grizzle, golden, honey, parti-color, sandy, slate, smoke or white</cores>
+          <paisOrigem>Tibet</paisOrigem>
+          <esperancaVida>12</esperancaVida>
+          <tamanhoPelo>Long</tamanhoPelo>
+          <tamanhoDetalhes>
+               <altura>
+                    <macho>
+                         <min>25.0</min>
+                         <max>25.0</max>
+                         <unidade>cm</unidade>
+                    </macho>
+               </altura>
+               <peso />
+          </tamanhoDetalhes>
+     </breedDetail>
+     <breedDetail>
+          <breedId>7</breedId>
+          <fotoUrl>https://www.royalkennelclub.com/media/1640/king-charles-spaniel-illustration.jpg?rmode=crop&amp;ranchor=center&amp;width=81&amp;height=81&amp;v=1d57817892aeb90</fotoUrl>
+          <grupo>Toy</grupo>
+          <porte>Small</porte>
+          <cuidadosPelo>More than once a week</cuidadosPelo>
+          <nivelExercicio>Up to 30 minutes per day</nivelExercicio>
+          <cores>King Charles (black and tan), Prince Charles (white with black and tan patches), Blenheim (white with red patches), Ruby (red)</cores>
+          <paisOrigem>England</paisOrigem>
+          <esperancaVida>12</esperancaVida>
+          <tamanhoPelo>Medium</tamanhoPelo>
+          <tamanhoDetalhes>
+               <altura>
+                    <geral>
+                         <min>23.0</min>
+                         <max>28.0</max>
+                         <unidade>cm</unidade>
+                    </geral>
+               </altura>
+               <peso>
+                    <geral>
+                         <min>3.6</min>
+                         <max>6.4</max>
+                         <unidade>kg</unidade>
+                    </geral>
+               </peso>
+          </tamanhoDetalhes>
+     </breedDetail>
+     <breedDetail>
+          <breedId>8</breedId>
+          <fotoUrl>https://www.royalkennelclub.com/media/2951/japanese-spitz-illustration.jpg?rmode=crop&amp;ranchor=center&amp;width=81&amp;height=81&amp;v=1d5782316d7d650</fotoUrl>
+          <grupo>Utility</grupo>
+          <porte>Small</porte>
+          <cuidadosPelo>Every day</cuidadosPelo>
+          <nivelExercicio>Up to 1 hour per day</nivelExercicio>
+          <cores>White</cores>
+          <paisOrigem>Japan</paisOrigem>
+          <esperancaVida>12</esperancaVida>
+          <tamanhoPelo>Medium</tamanhoPelo>
+          <tamanhoDetalhes>
+               <altura />
+               <peso />
+          </tamanhoDetalhes>
+     </breedDetail>
+     <breedDetail>
+          <breedId>9</breedId>
+          <fotoUrl>https://www.royalkennelclub.com/media/1170/irish-setter-illustration-resized.jpg?rmode=crop&amp;ranchor=center&amp;width=81&amp;height=81&amp;v=1d57504d442e350</fotoUrl>
+          <grupo>Gundog</grupo>
+          <porte>Large</porte>
+          <cuidadosPelo>More than once a week</cuidadosPelo>
+          <nivelExercicio>More than 2 hours per day</nivelExercicio>
+          <cores>Não encontrado</cores>
+          <paisOrigem>Ireland</paisOrigem>
+          <esperancaVida>10</esperancaVida>
+          <tamanhoPelo>Medium</tamanhoPelo>
+          <tamanhoDetalhes>
+               <altura />
+               <peso />
+          </tamanhoDetalhes>
+     </breedDetail>
+     <breedDetail>
+          <breedId>10</breedId>
+          <fotoUrl>https://www.royalkennelclub.com/media/2948/hovawart-illustration.jpg?rmode=crop&amp;ranchor=center&amp;width=81&amp;height=81&amp;v=1d5787b65801120</fotoUrl>
+          <grupo>Working</grupo>
+          <porte>Large</porte>
+          <cuidadosPelo>More than once a week</cuidadosPelo>
+          <nivelExercicio>More than 2 hours per day</nivelExercicio>
+          <cores>Black, black and gold, and blonde</cores>
+          <paisOrigem>Germany</paisOrigem>
+          <esperancaVida>10</esperancaVida>
+          <tamanhoPelo>Medium</tamanhoPelo>
+          <tamanhoDetalhes>
+               <altura>
+                    <macho>
+                         <min>63.0</min>
+                         <max>73.0</max>
+                         <unidade>cm</unidade>
+                    </macho>
+                    <femea>
+                         <min>58.0</min>
+                         <max>65.0</max>
+                         <unidade>cm</unidade>
+                    </femea>
+               </altura>
+               <peso>
+                    <geral>
+                         <min>30.0</min>
+                         <max>50.0</max>
+                         <unidade>kg</unidade>
+                    </geral>
+               </peso>
+          </tamanhoDetalhes>
+     </breedDetail>
+     <breedDetail>
+          <breedId>11</breedId>
+          <fotoUrl>https://www.royalkennelclub.com/media/2663/great-dane.jpg?rmode=crop&amp;ranchor=center&amp;width=81&amp;height=81&amp;v=1d5787b41c2e5a0</fotoUrl>
+          <grupo>Working</grupo>
+          <porte>Extra large</porte>
+          <cuidadosPelo>Once a week</cuidadosPelo>
+          <nivelExercicio>More than 2 hours per day</nivelExercicio>
+          <cores>Não encontrado</cores>
+          <paisOrigem>Germany</paisOrigem>
+          <esperancaVida>10</esperancaVida>
+          <tamanhoPelo>Short</tamanhoPelo>
+          <tamanhoDetalhes>
+               <altura>
+                    <macho>
+                         <min>80.0</min>
+                         <max>90.0</max>
+                         <unidade>cm</unidade>
+                    </macho>
+                    <femea>
+                         <min>72.0</min>
+                         <max>84.0</max>
+                         <unidade>cm</unidade>
+                    </femea>
+               </altura>
+               <peso />
+          </tamanhoDetalhes>
+     </breedDetail>
+     <breedDetail>
+          <breedId>12</breedId>
+          <fotoUrl>https://www.royalkennelclub.com/media/1162/english-setter-illustration-resized.jpg?rmode=crop&amp;ranchor=center&amp;width=81&amp;height=81&amp;v=1d57503f5fcba30</fotoUrl>
+          <grupo>Gundog</grupo>
+          <porte>Large</porte>
+          <cuidadosPelo>More than once a week</cuidadosPelo>
+          <nivelExercicio>More than 2 hours per day</nivelExercicio>
+          <cores>Não encontrado</cores>
+          <paisOrigem>England</paisOrigem>
+          <esperancaVida>10</esperancaVida>
+          <tamanhoPelo>Medium</tamanhoPelo>
+          <tamanhoDetalhes>
+               <altura />
+               <peso />
+          </tamanhoDetalhes>
+     </breedDetail>
+     <breedDetail>
+          <breedId>13</breedId>
+          <fotoUrl>https://www.royalkennelclub.com/media/1612/cavalier-king-charles-spaniel-illustration.jpg?rmode=crop&amp;ranchor=center&amp;width=81&amp;height=81&amp;v=1d57816c54450e0</fotoUrl>
+          <grupo>Toy</grupo>
+          <porte>Small</porte>
+          <cuidadosPelo>More than once a week</cuidadosPelo>
+          <nivelExercicio>Up to 1 hour per day</nivelExercicio>
+          <cores>Blenheim, black-and-tan, ruby or tricolour</cores>
+          <paisOrigem>United Kingdom</paisOrigem>
+          <esperancaVida>12</esperancaVida>
+          <tamanhoPelo>Medium</tamanhoPelo>
+          <tamanhoDetalhes>
+               <altura />
+               <peso>
+                    <geral>
+                         <min>5.4</min>
+                         <max>8.0</max>
+                         <unidade>kg</unidade>
+                    </geral>
+               </peso>
+          </tamanhoDetalhes>
+     </breedDetail>
+     <breedDetail>
+          <breedId>14</breedId>
+          <fotoUrl>https://www.royalkennelclub.com/media/2913/bulldog-illustration.jpg?rmode=crop&amp;ranchor=center&amp;width=81&amp;height=81&amp;v=1d57818ef8f6cc0</fotoUrl>
+          <grupo>Utility</grupo>
+          <porte>Medium</porte>
+          <cuidadosPelo>Once a week</cuidadosPelo>
+          <nivelExercicio>Up to 1 hour per day</nivelExercicio>
+          <cores>brindle; solid white, red, fawn or yellow; piebald</cores>
+          <paisOrigem>England</paisOrigem>
+          <esperancaVida>10</esperancaVida>
+          <tamanhoPelo>Short</tamanhoPelo>
+          <tamanhoDetalhes>
+               <altura />
+               <peso>
+                    <macho>
+                         <min>25.0</min>
+                         <max>25.0</max>
+                         <unidade>kg</unidade>
+                    </macho>
+                    <femea>
+                         <min>23.0</min>
+                         <max>23.0</max>
+                         <unidade>kg</unidade>
+                    </femea>
+               </peso>
+          </tamanhoDetalhes>
+     </breedDetail>
+     <breedDetail>
+          <breedId>15</breedId>
+          <fotoUrl>https://www.royalkennelclub.com/media/1529/bull-terrier-illustration.jpg?rmode=crop&amp;ranchor=center&amp;width=81&amp;height=81&amp;v=1d578120b202c60</fotoUrl>
+          <grupo>Terrier</grupo>
+          <porte>Medium</porte>
+          <cuidadosPelo>Once a week</cuidadosPelo>
+          <nivelExercicio>Up to 1 hour per day</nivelExercicio>
+          <cores>White, brindle, fawn, red, red smut, black, and tricolor (black, red, and white mixture).</cores>
+          <paisOrigem>England</paisOrigem>
+          <esperancaVida>10</esperancaVida>
+          <tamanhoPelo>Short</tamanhoPelo>
+          <tamanhoDetalhes>
+               <altura />
+               <peso />
+          </tamanhoDetalhes>
+     </breedDetail>
+     <breedDetail>
+          <breedId>16</breedId>
+          <fotoUrl>https://www.royalkennelclub.com/media/2910/boston-terrier-illustration.jpg?rmode=crop&amp;ranchor=center&amp;width=81&amp;height=81&amp;v=1d57818e11e3860</fotoUrl>
+          <grupo>Utility</grupo>
+          <porte>Small</porte>
+          <cuidadosPelo>Once a week</cuidadosPelo>
+          <nivelExercicio>Up to 1 hour per day</nivelExercicio>
+          <cores>Brindle</cores>
+          <paisOrigem>United States</paisOrigem>
+          <esperancaVida>10</esperancaVida>
+          <tamanhoPelo>Short</tamanhoPelo>
+          <tamanhoDetalhes>
+               <altura>
+                    <geral>
+                         <min>23.0</min>
+                         <max>38.0</max>
+                         <unidade>cm</unidade>
+                    </geral>
+               </altura>
+               <peso>
+                    <geral>
+                         <min>3.0</min>
+                         <max>11.0</max>
+                         <unidade>kg</unidade>
+                    </geral>
+               </peso>
+          </tamanhoDetalhes>
+     </breedDetail>
+     <breedDetail>
+          <breedId>17</breedId>
+          <fotoUrl>https://www.royalkennelclub.com/media/1604/bichon-frise-illustration.jpg?rmode=crop&amp;ranchor=center&amp;width=81&amp;height=81&amp;v=1d57816910c8c70</fotoUrl>
+          <grupo>Toy</grupo>
+          <porte>Small</porte>
+          <cuidadosPelo>Every day</cuidadosPelo>
+          <nivelExercicio>Up to 30 minutes per day</nivelExercicio>
+          <cores>white</cores>
+          <paisOrigem>Canary Islands</paisOrigem>
+          <esperancaVida>12</esperancaVida>
+          <tamanhoPelo>Medium</tamanhoPelo>
+          <tamanhoDetalhes>
+               <altura>
+                    <macho>
+                         <min>25.0</min>
+                         <max>30.0</max>
+                         <unidade>cm</unidade>
+                    </macho>
+                    <femea>
+                         <min>23.0</min>
+                         <max>29.0</max>
+                         <unidade>cm</unidade>
+                    </femea>
+               </altura>
+               <peso />
+          </tamanhoDetalhes>
+     </breedDetail>
+     <breedDetail>
+          <breedId>18</breedId>
+          <fotoUrl>https://www.royalkennelclub.com/media/2919/bernese-mountain-dog-illustration.jpg?rmode=crop&amp;ranchor=center&amp;width=81&amp;height=81&amp;v=1d57826d3fd2250</fotoUrl>
+          <grupo>Working</grupo>
+          <porte>Large</porte>
+          <cuidadosPelo>More than once a week</cuidadosPelo>
+          <nivelExercicio>Up to 1 hour per day</nivelExercicio>
+          <cores>tricolour (black, rust, and white)</cores>
+          <paisOrigem>Switzerland</paisOrigem>
+          <esperancaVida>10</esperancaVida>
+          <tamanhoPelo>Medium</tamanhoPelo>
+          <tamanhoDetalhes>
+               <altura>
+                    <macho>
+                         <min>64.0</min>
+                         <max>70.0</max>
+                         <unidade>cm</unidade>
+                    </macho>
+                    <femea>
+                         <min>58.0</min>
+                         <max>66.0</max>
+                         <unidade>cm</unidade>
+                    </femea>
+               </altura>
+               <peso>
+                    <macho>
+                         <min>36.0</min>
+                         <max>55.0</max>
+                         <unidade>kg</unidade>
+                    </macho>
+                    <femea>
+                         <min>34.0</min>
+                         <max>45.0</max>
+                         <unidade>kg</unidade>
+                    </femea>
+               </peso>
+          </tamanhoDetalhes>
+     </breedDetail>
+     <breedDetail>
+          <breedId>19</breedId>
+          <fotoUrl>https://www.royalkennelclub.com/media/1416/bearded-collie-illustration.jpg?rmode=crop&amp;ranchor=center&amp;width=81&amp;height=81&amp;v=1d5750efe643670</fotoUrl>
+          <grupo>Pastoral</grupo>
+          <porte>Medium</porte>
+          <cuidadosPelo>Every day</cuidadosPelo>
+          <nivelExercicio>Up to 1 hour per day</nivelExercicio>
+          <cores>black, blue, brown, or fawn with white or tan markings</cores>
+          <paisOrigem>Scotland</paisOrigem>
+          <esperancaVida>12</esperancaVida>
+          <tamanhoPelo>Long</tamanhoPelo>
+          <tamanhoDetalhes>
+               <altura>
+                    <macho>
+                         <min>53.0</min>
+                         <max>56.0</max>
+                         <unidade>cm</unidade>
+                    </macho>
+                    <femea>
+                         <min>51.0</min>
+                         <max>56.0</max>
+                         <unidade>cm</unidade>
+                    </femea>
+               </altura>
+               <peso>
+                    <geral>
+                         <min>18.0</min>
+                         <max>27.0</max>
+                         <unidade>kg</unidade>
+                    </geral>
+               </peso>
+          </tamanhoDetalhes>
+     </breedDetail>
+     <breedDetail>
+          <breedId>20</breedId>
+          <fotoUrl>https://www.royalkennelclub.com/media/2911/basset-hound-illustration.jpg?rmode=crop&amp;ranchor=center&amp;width=81&amp;height=81&amp;v=1d5750af800ea70</fotoUrl>
+          <grupo>Hound</grupo>
+          <porte>Medium-Large</porte>
+          <cuidadosPelo>Once a week</cuidadosPelo>
+          <nivelExercicio>Up to 1 hour per day</nivelExercicio>
+          <cores>Generally black, white and tan (tri-color) or tan/lemon and white (bi-color); but any recognized hound color acceptable.</cores>
+          <paisOrigem>France</paisOrigem>
+          <esperancaVida>10</esperancaVida>
+          <tamanhoPelo>Short</tamanhoPelo>
+          <tamanhoDetalhes>
+               <altura>
+                    <macho>
+                         <min>30.0</min>
+                         <max>38.0</max>
+                         <unidade>cm</unidade>
+                    </macho>
+                    <femea>
+                         <min>28.0</min>
+                         <max>36.0</max>
+                         <unidade>cm</unidade>
+                    </femea>
+               </altura>
+               <peso>
+                    <macho>
+                         <min>25.0</min>
+                         <max>34.0</max>
+                         <unidade>kg</unidade>
+                    </macho>
+                    <femea>
+                         <min>20.0</min>
+                         <max>29.0</max>
+                         <unidade>kg</unidade>
+                    </femea>
+               </peso>
+          </tamanhoDetalhes>
+     </breedDetail>
+     <breedDetail>
+          <breedId>21</breedId>
+          <fotoUrl>https://www.royalkennelclub.com/media/2658/basenji-illustration.jpg?rmode=crop&amp;ranchor=center&amp;width=81&amp;height=81&amp;v=1d57509438b8470</fotoUrl>
+          <grupo>Hound</grupo>
+          <porte>Small</porte>
+          <cuidadosPelo>Once a week</cuidadosPelo>
+          <nivelExercicio>Up to 1 hour per day</nivelExercicio>
+          <cores>Não encontrado</cores>
+          <paisOrigem>Democratic Republic of the Congo</paisOrigem>
+          <esperancaVida>12</esperancaVida>
+          <tamanhoPelo>Short</tamanhoPelo>
+          <tamanhoDetalhes>
+               <altura>
+                    <macho>
+                         <min>43.0</min>
+                         <max>43.0</max>
+                         <unidade>cm</unidade>
+                    </macho>
+                    <femea>
+                         <min>40.0</min>
+                         <max>40.0</max>
+                         <unidade>cm</unidade>
+                    </femea>
+               </altura>
+               <peso>
+                    <macho>
+                         <min>11.0</min>
+                         <max>11.0</max>
+                         <unidade>kg</unidade>
+                    </macho>
+                    <femea>
+                         <min>9.5</min>
+                         <max>9.5</max>
+                         <unidade>kg</unidade>
+                    </femea>
+               </peso>
+          </tamanhoDetalhes>
+     </breedDetail>
+     <breedDetail>
+          <breedId>22</breedId>
+          <fotoUrl>https://www.royalkennelclub.com/media/1520/australian-terrier-illustration.jpg?rmode=crop&amp;ranchor=center&amp;width=81&amp;height=81&amp;v=1d578111bcf1130</fotoUrl>
+          <grupo>Terrier</grupo>
+          <porte>Small</porte>
+          <cuidadosPelo>More than once a week</cuidadosPelo>
+          <nivelExercicio>Up to 1 hour per day</nivelExercicio>
+          <cores>Não encontrado</cores>
+          <paisOrigem>Australia</paisOrigem>
+          <esperancaVida>12</esperancaVida>
+          <tamanhoPelo>Medium</tamanhoPelo>
+          <tamanhoDetalhes>
+               <altura>
+                    <macho>
+                         <min>25.0</min>
+                         <max>25.0</max>
+                         <unidade>cm</unidade>
+                    </macho>
+               </altura>
+               <peso>
+                    <macho>
+                         <min>6.5</min>
+                         <max>6.5</max>
+                         <unidade>kg</unidade>
+                    </macho>
+               </peso>
+          </tamanhoDetalhes>
+     </breedDetail>
+     <breedDetail>
+          <breedId>23</breedId>
+          <fotoUrl>https://www.royalkennelclub.com/media/1413/australian-shepherd.jpg?rmode=crop&amp;ranchor=center&amp;width=81&amp;height=81&amp;v=1d8265bba231390</fotoUrl>
+          <grupo>Pastoral</grupo>
+          <porte>Medium</porte>
+          <cuidadosPelo>More than once a week</cuidadosPelo>
+          <nivelExercicio>More than 2 hours per day</nivelExercicio>
+          <cores>Blue or red merle, solid black or red, and/or white markings and/or tan points or a mixture of all</cores>
+          <paisOrigem>United States</paisOrigem>
+          <esperancaVida>10</esperancaVida>
+          <tamanhoPelo>Medium</tamanhoPelo>
+          <tamanhoDetalhes>
+               <altura>
+                    <macho>
+                         <min>51.0</min>
+                         <max>58.0</max>
+                         <unidade>cm</unidade>
+                    </macho>
+                    <femea>
+                         <min>46.0</min>
+                         <max>53.0</max>
+                         <unidade>cm</unidade>
+                    </femea>
+               </altura>
+               <peso>
+                    <geral>
+                         <min>16.0</min>
+                         <max>32.0</max>
+                         <unidade>kg</unidade>
+                    </geral>
+               </peso>
+          </tamanhoDetalhes>
+     </breedDetail>
+     <breedDetail>
+          <breedId>24</breedId>
+          <fotoUrl>https://www.royalkennelclub.com/media/1601/australian-silky-terrier.jpg?rmode=crop&amp;ranchor=center&amp;width=81&amp;height=81&amp;v=1d826597920d7d0</fotoUrl>
+          <grupo>Toy</grupo>
+          <porte>Small</porte>
+          <cuidadosPelo>Every day</cuidadosPelo>
+          <nivelExercicio>Up to 30 minutes per day</nivelExercicio>
+          <cores>Blue, tan</cores>
+          <paisOrigem>Australia</paisOrigem>
+          <esperancaVida>12</esperancaVida>
+          <tamanhoPelo>Medium</tamanhoPelo>
+          <tamanhoDetalhes>
+               <altura>
+                    <macho>
+                         <min>23.0</min>
+                         <max>26.0</max>
+                         <unidade>cm</unidade>
+                    </macho>
+               </altura>
+               <peso />
+          </tamanhoDetalhes>
+     </breedDetail>
+     <breedDetail>
+          <breedId>25</breedId>
+          <fotoUrl>https://www.royalkennelclub.com/media/1353/beagle-illustration.jpg?rmode=crop&amp;ranchor=center&amp;width=81&amp;height=81&amp;v=1d5750b1d4d6880</fotoUrl>
+          <grupo>Hound</grupo>
+          <porte>Small</porte>
+          <cuidadosPelo>Once a week</cuidadosPelo>
+          <nivelExercicio>Up to 1 hour per day</nivelExercicio>
+          <cores>Tricolour or white in combination with black &amp;amp; tan/brown or brown/tan or yellow/white</cores>
+          <paisOrigem>England</paisOrigem>
+          <esperancaVida>12</esperancaVida>
+          <tamanhoPelo>Short</tamanhoPelo>
+          <tamanhoDetalhes>
+               <altura>
+                    <geral>
+                         <min>33.0</min>
+                         <max>41.0</max>
+                         <unidade>cm</unidade>
+                    </geral>
+               </altura>
+               <peso>
+                    <macho>
+                         <min>10.0</min>
+                         <max>11.3</max>
+                         <unidade>kg</unidade>
+                    </macho>
+                    <femea>
+                         <min>9.1</min>
+                         <max>10.4</max>
+                         <unidade>kg</unidade>
+                    </femea>
+               </peso>
+          </tamanhoDetalhes>
+     </breedDetail>
+     <breedDetail>
+          <breedId>26</breedId>
+          <fotoUrl>https://www.royalkennelclub.com/media/1737/shar-pei-illustration.jpg?rmode=crop&amp;ranchor=center&amp;width=81&amp;height=81&amp;v=1d5782671d67c70</fotoUrl>
+          <grupo>Utility</grupo>
+          <porte>Medium</porte>
+          <cuidadosPelo>Once a week</cuidadosPelo>
+          <nivelExercicio>Up to 1 hour per day</nivelExercicio>
+          <cores>All solid colours except white</cores>
+          <paisOrigem>China</paisOrigem>
+          <esperancaVida>10</esperancaVida>
+          <tamanhoPelo>Short</tamanhoPelo>
+          <tamanhoDetalhes>
+               <altura>
+                    <geral>
+                         <min>44.0</min>
+                         <max>51.0</max>
+                         <unidade>cm</unidade>
+                    </geral>
+               </altura>
+               <peso>
+                    <geral>
+                         <min>16.0</min>
+                         <max>29.0</max>
+                         <unidade>kg</unidade>
+                    </geral>
+               </peso>
+          </tamanhoDetalhes>
+     </breedDetail>
+     <breedDetail>
+          <breedId>27</breedId>
+          <fotoUrl>https://www.royalkennelclub.com/media/2975/schnauzer-illustration.jpg?rmode=crop&amp;ranchor=center&amp;width=81&amp;height=81&amp;v=1d57826607776f0</fotoUrl>
+          <grupo>Utility</grupo>
+          <porte>Medium</porte>
+          <cuidadosPelo>More than once a week</cuidadosPelo>
+          <nivelExercicio>Up to 1 hour per day</nivelExercicio>
+          <cores>Não encontrado</cores>
+          <paisOrigem>Germany</paisOrigem>
+          <esperancaVida>10</esperancaVida>
+          <tamanhoPelo>Medium</tamanhoPelo>
+          <tamanhoDetalhes>
+               <altura />
+               <peso />
+          </tamanhoDetalhes>
+     </breedDetail>
+     <breedDetail>
+          <breedId>28</breedId>
+          <fotoUrl>https://www.royalkennelclub.com/media/1661/pug-illustration.jpg?rmode=crop&amp;ranchor=center&amp;width=81&amp;height=81&amp;v=1d57818831e0ab0</fotoUrl>
+          <grupo>Toy</grupo>
+          <porte>Small</porte>
+          <cuidadosPelo>Once a week</cuidadosPelo>
+          <nivelExercicio>Up to 1 hour per day</nivelExercicio>
+          <cores>Silver, apricot, fawn or black only.</cores>
+          <paisOrigem>China</paisOrigem>
+          <esperancaVida>10</esperancaVida>
+          <tamanhoPelo>Short</tamanhoPelo>
+          <tamanhoDetalhes>
+               <altura />
+               <peso>
+                    <geral>
+                         <min>6.35</min>
+                         <max>8.16</max>
+                         <unidade>kg</unidade>
+                    </geral>
+               </peso>
+          </tamanhoDetalhes>
+     </breedDetail>
+     <breedDetail>
+          <breedId>29</breedId>
+          <fotoUrl>https://www.royalkennelclub.com/media/2934/dobermann-illustration.jpg?rmode=crop&amp;ranchor=center&amp;width=81&amp;height=81&amp;v=1d57827b5d4af90</fotoUrl>
+          <grupo>Working</grupo>
+          <porte>Large</porte>
+          <cuidadosPelo>Once a week</cuidadosPelo>
+          <nivelExercicio>More than 2 hours per day</nivelExercicio>
+          <cores>black &amp;amp; rust, red &amp;amp; rust, blue &amp;amp; rust, fawn (Isabella) &amp;amp; rust</cores>
+          <paisOrigem>Germany</paisOrigem>
+          <esperancaVida>10</esperancaVida>
+          <tamanhoPelo>Short</tamanhoPelo>
+          <tamanhoDetalhes>
+               <altura>
+                    <macho>
+                         <min>68.0</min>
+                         <max>72.0</max>
+                         <unidade>cm</unidade>
+                    </macho>
+                    <femea>
+                         <min>63.0</min>
+                         <max>68.0</max>
+                         <unidade>cm</unidade>
+                    </femea>
+               </altura>
+               <peso>
+                    <macho>
+                         <min>40.0</min>
+                         <max>45.0</max>
+                         <unidade>kg</unidade>
+                    </macho>
+                    <femea>
+                         <min>32.0</min>
+                         <max>35.0</max>
+                         <unidade>kg</unidade>
+                    </femea>
+               </peso>
+          </tamanhoDetalhes>
+     </breedDetail>
+     <breedDetail>
+          <breedId>30</breedId>
+          <fotoUrl>https://www.royalkennelclub.com/media/2666/siberian-husky-illustration.jpg?rmode=crop&amp;ranchor=center&amp;width=81&amp;height=81&amp;v=1d5787c1ec480d0</fotoUrl>
+          <grupo>Working</grupo>
+          <porte>Medium-Large</porte>
+          <cuidadosPelo>More than once a week</cuidadosPelo>
+          <nivelExercicio>More than 2 hours per day</nivelExercicio>
+          <cores>All colors from black to pure white, and including many differing colors and markings</cores>
+          <paisOrigem>Siberia</paisOrigem>
+          <esperancaVida>10</esperancaVida>
+          <tamanhoPelo>Short</tamanhoPelo>
+          <tamanhoDetalhes>
+               <altura>
+                    <macho>
+                         <min>53.0</min>
+                         <max>60.0</max>
+                         <unidade>cm</unidade>
+                    </macho>
+                    <femea>
+                         <min>51.0</min>
+                         <max>56.0</max>
+                         <unidade>cm</unidade>
+                    </femea>
+               </altura>
+               <peso>
+                    <macho>
+                         <min>20.0</min>
+                         <max>27.0</max>
+                         <unidade>kg</unidade>
+                    </macho>
+                    <femea>
+                         <min>16.0</min>
+                         <max>23.0</max>
+                         <unidade>kg</unidade>
+                    </femea>
+               </peso>
+          </tamanhoDetalhes>
+     </breedDetail>
+</detalhes>

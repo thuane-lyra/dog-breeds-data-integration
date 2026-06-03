@@ -1,0 +1,41 @@
+=== ESTATÍSTICAS DAS RAÇAS ===
+
+ Total de raças: 27
+ Média esperança de vida: 10.3 anos
+ Maior esperança de vida: 12 anos
+ Menor esperança de vida: -1 anos
+ 
+--- Contagem por Porte ---
+   Extra large: 1 raças
+   Large: 7 raças
+   Medium: 7 raças
+   Medium-Large: 1 raças
+   Sem informação: 1 raças
+   Small: 10 raças
+ 
+--- Contagem por Grupo ---
+   Gundog: 2 raças
+   Hound: 3 raças
+   Pastoral: 2 raças
+   Sem Grupo: 1 raças
+   Terrier: 2 raças
+   Toy: 5 raças
+   Utility: 7 raças
+   Working: 5 raças
+ 
+--- Países de Origem ---
+   Alaska: 1 raças
+   Australia: 2 raças
+   Canary Islands: 1 raças
+   China: 2 raças
+   Democratic Republic of the Congo: 1 raças
+   England: 6 raças
+   France: 1 raças
+   Germany: 5 raças
+   Ireland: 1 raças
+   Japan: 1 raças
+   Scotland: 1 raças
+   Switzerland: 1 raças
+   Tibet: 1 raças
+   United Kingdom: 1 raças
+   United States: 2 raças

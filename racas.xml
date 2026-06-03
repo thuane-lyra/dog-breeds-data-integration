@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE racas SYSTEM "racasDTD.dtd">
+<racas>
+     <breed nome="Affenpinscher">
+          <id>1</id>
+     </breed>
+     <breed nome="Greyhound">
+          <id>2</id>
+     </breed>
+     <breed nome="Rottweiler">
+          <id>3</id>
+     </breed>
+     <breed nome="Alaskan Malamute">
+          <id>4</id>
+     </breed>
+     <breed nome="Chow Chow">
+          <id>5</id>
+     </breed>
+     <breed nome="Lhasa Apso">
+          <id>6</id>
+     </breed>
+     <breed nome="King Charles Spaniel">
+          <id>7</id>
+     </breed>
+     <breed nome="Japanese Spitz">
+          <id>8</id>
+     </breed>
+     <breed nome="Irish Setter">
+          <id>9</id>
+     </breed>
+     <breed nome="Hovawart">
+          <id>10</id>
+     </breed>
+     <breed nome="Great Dane">
+          <id>11</id>
+     </breed>
+     <breed nome="English Setter">
+          <id>12</id>
+     </breed>
+     <breed nome="Cavalier King Charles Spaniel">
+          <id>13</id>
+     </breed>
+     <breed nome="Bulldog">
+          <id>14</id>
+     </breed>
+     <breed nome="Bull Terrier">
+          <id>15</id>
+     </breed>
+     <breed nome="Boston Terrier">
+          <id>16</id>
+     </breed>
+     <breed nome="Bichon Frise">
+          <id>17</id>
+     </breed>
+     <breed nome="Bernese Mountain Dog">
+          <id>18</id>
+     </breed>
+     <breed nome="Bearded Collie">
+          <id>19</id>
+     </breed>
+     <breed nome="Basset Hound">
+          <id>20</id>
+     </breed>
+     <breed nome="Basenji">
+          <id>21</id>
+     </breed>
+     <breed nome="Australian Terrier">
+          <id>22</id>
+     </breed>
+     <breed nome="Australian Shepherd">
+          <id>23</id>
+     </breed>
+     <breed nome="Australian Silky Terrier">
+          <id>24</id>
+     </breed>
+     <breed nome="Beagle">
+          <id>25</id>
+     </breed>
+     <breed nome="Shar Pei">
+          <id>26</id>
+     </breed>
+     <breed nome="Schnauzer">
+          <id>27</id>
+     </breed>
+     <breed nome="Pug">
+          <id>28</id>
+     </breed>
+     <breed nome="Dobermann">
+          <id>29</id>
+     </breed>
+     <breed nome="Siberian Husky">
+          <id>30</id>
+     </breed>
+</racas>

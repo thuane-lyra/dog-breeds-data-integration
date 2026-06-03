@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<detalhes>
+     <breedDetail>
+          <breedId>3</breedId>
+          <fotoUrl>https://www.royalkennelclub.com/media/2974/rottweiler.jpg?rmode=crop&amp;ranchor=center&amp;width=81&amp;height=81&amp;v=1d826642ee05af0</fotoUrl>
+          <grupo>Working</grupo>
+          <porte>Large</porte>
+          <cuidadosPelo>Once a week</cuidadosPelo>
+          <nivelExercicio>More than 2 hours per day</nivelExercicio>
+          <cores>Black and tan, rust, and mahogany</cores>
+          <paisOrigem>Germany</paisOrigem>
+          <esperancaVida>10</esperancaVida>
+          <tamanhoPelo>Short</tamanhoPelo>
+          <tamanhoDetalhes>
+               <altura>
+                    <macho>
+                         <min>61.0</min>
+                         <max>69.0</max>
+                         <unidade>cm</unidade>
+                    </macho>
+                    <femea>
+                         <min>56.0</min>
+                         <max>63.0</max>
+                         <unidade>cm</unidade>
+                    </femea>
+               </altura>
+               <peso>
+                    <macho>
+                         <min>50.0</min>
+                         <max>60.0</max>
+                         <unidade>kg</unidade>
+                    </macho>
+                    <femea>
+                         <min>35.0</min>
+                         <max>48.0</max>
+                         <unidade>kg</unidade>
+                    </femea>
+               </peso>
+          </tamanhoDetalhes>
+     </breedDetail>
+</detalhes>

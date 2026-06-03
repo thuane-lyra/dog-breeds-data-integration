@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<racasPorPorte>
+   <grupo porte="Extra large">
+      <raca>
+         <nome>Great Dane</nome>
+         <grupo>Working</grupo>
+         <esperancaVida>10</esperancaVida>
+         <paisOrigem>Germany</paisOrigem>
+      </raca>
+   </grupo>
+   <grupo porte="Large">
+      <raca>
+         <nome>Alaskan Malamute</nome>
+         <grupo>Working</grupo>
+         <esperancaVida>10</esperancaVida>
+         <paisOrigem>Alaska</paisOrigem>
+      </raca>
+      <raca>
+         <nome>Bernese Mountain Dog</nome>
+         <grupo>Working</grupo>
+         <esperancaVida>10</esperancaVida>
+         <paisOrigem>Switzerland</paisOrigem>
+      </raca>
+      <raca>
+         <nome>English Setter</nome>
+         <grupo>Gundog</grupo>
+         <esperancaVida>10</esperancaVida>
+         <paisOrigem>England</paisOrigem>
+      </raca>
+      <raca>
+         <nome>Greyhound</nome>
+         <grupo>Hound</grupo>
+         <esperancaVida>10</esperancaVida>
+         <paisOrigem>England</paisOrigem>
+      </raca>
+      <raca>
+         <nome>Hovawart</nome>
+         <grupo>Working</grupo>
+         <esperancaVida>10</esperancaVida>
+         <paisOrigem>Germany</paisOrigem>
+      </raca>
+      <raca>
+         <nome>Irish Setter</nome>
+         <grupo>Gundog</grupo>
+         <esperancaVida>10</esperancaVida>
+         <paisOrigem>Ireland</paisOrigem>
+      </raca>
+      <raca>
+         <nome>Rottweiler</nome>
+         <grupo>Working</grupo>
+         <esperancaVida>10</esperancaVida>
+         <paisOrigem>Germany</paisOrigem>
+      </raca>
+   </grupo>
+   <grupo porte="Medium">
+      <raca>
+         <nome>Australian Shepherd</nome>
+         <grupo>Pastoral</grupo>
+         <esperancaVida>10</esperancaVida>
+         <paisOrigem>United States</paisOrigem>
+      </raca>
+      <raca>
+         <nome>Bearded Collie</nome>
+         <grupo>Pastoral</grupo>
+         <esperancaVida>12</esperancaVida>
+         <paisOrigem>Scotland</paisOrigem>
+      </raca>
+      <raca>
+         <nome>Bull Terrier</nome>
+         <grupo>Terrier</grupo>
+         <esperancaVida>10</esperancaVida>
+         <paisOrigem>England</paisOrigem>
+      </raca>
+      <raca>
+         <nome>Bulldog</nome>
+         <grupo>Utility</grupo>
+         <esperancaVida>10</esperancaVida>
+         <paisOrigem>England</paisOrigem>
+      </raca>
+      <raca>
+         <nome>Chow Chow</nome>
+         <grupo>Utility</grupo>
+         <esperancaVida>10</esperancaVida>
+         <paisOrigem>China</paisOrigem>
+      </raca>
+      <raca>
+         <nome>Schnauzer</nome>
+         <grupo>Utility</grupo>
+         <esperancaVida>10</esperancaVida>
+         <paisOrigem>Germany</paisOrigem>
+      </raca>
+      <raca>
+         <nome>Shar Pei</nome>
+         <grupo>Utility</grupo>
+         <esperancaVida>10</esperancaVida>
+         <paisOrigem>China</paisOrigem>
+      </raca>
+   </grupo>
+   <grupo porte="Medium-Large">
+      <raca>
+         <nome>Basset Hound</nome>
+         <grupo>Hound</grupo>
+         <esperancaVida>10</esperancaVida>
+         <paisOrigem>France</paisOrigem>
+      </raca>
+   </grupo>
+   <grupo porte="Sem informação">
+      <raca>
+         <nome>beagle</nome>
+         <grupo>Sem Grupo</grupo>
+         <esperancaVida>-1</esperancaVida>
+         <paisOrigem>England</paisOrigem>
+      </raca>
+   </grupo>
+   <grupo porte="Small">
+      <raca>
+         <nome>Affenpinscher</nome>
+         <grupo>Toy</grupo>
+         <esperancaVida>12</esperancaVida>
+         <paisOrigem>Germany</paisOrigem>
+      </raca>
+      <raca>
+         <nome>Australian Silky Terrier</nome>
+         <grupo>Toy</grupo>
+         <esperancaVida>12</esperancaVida>
+         <paisOrigem>Australia</paisOrigem>
+      </raca>
+      <raca>
+         <nome>Australian Terrier</nome>
+         <grupo>Terrier</grupo>
+         <esperancaVida>12</esperancaVida>
+         <paisOrigem>Australia</paisOrigem>
+      </raca>
+      <raca>
+         <nome>Basenji</nome>
+         <grupo>Hound</grupo>
+         <esperancaVida>12</esperancaVida>
+         <paisOrigem>Democratic Republic of the Congo</paisOrigem>
+      </raca>
+      <raca>
+         <nome>Bichon Frise</nome>
+         <grupo>Toy</grupo>
+         <esperancaVida>12</esperancaVida>
+         <paisOrigem>Canary Islands</paisOrigem>
+      </raca>
+      <raca>
+         <nome>Boston Terrier</nome>
+         <grupo>Utility</grupo>
+         <esperancaVida>10</esperancaVida>
+         <paisOrigem>United States</paisOrigem>
+      </raca>
+      <raca>
+         <nome>Cavalier King Charles Spaniel</nome>
+         <grupo>Toy</grupo>
+         <esperancaVida>12</esperancaVida>
+         <paisOrigem>United Kingdom</paisOrigem>
+      </raca>
+      <raca>
+         <nome>Japanese Spitz</nome>
+         <grupo>Utility</grupo>
+         <esperancaVida>12</esperancaVida>
+         <paisOrigem>Japan</paisOrigem>
+      </raca>
+      <raca>
+         <nome>King Charles Spaniel</nome>
+         <grupo>Toy</grupo>
+         <esperancaVida>12</esperancaVida>
+         <paisOrigem>England</paisOrigem>
+      </raca>
+      <raca>
+         <nome>Lhasa Apso</nome>
+         <grupo>Utility</grupo>
+         <esperancaVida>12</esperancaVida>
+         <paisOrigem>Tibet</paisOrigem>
+      </raca>
+   </grupo>
+</racasPorPorte>

@@ -1,0 +1,13 @@
+
+<!ELEMENT racas  ( breed+ )>
+
+<!ELEMENT id  ( #PCDATA )>
+
+<!ELEMENT breed  ( id )>
+<!ATTLIST breed
+nome CDATA #REQUIRED
+>
+<!ATTLIST racas
+    xmlns:xsi CDATA #IMPLIED
+    xsi:noNamespaceSchemaLocation CDATA #IMPLIED
+>

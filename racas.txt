@@ -1,0 +1,27 @@
+AffenpinscherGreyhound
+Rottweiler
+Alaskan Malamute
+Chow Chow
+Lhasa Apso
+King Charles Spaniel
+Japanese Spitz
+Irish Setter
+Hovawart
+Great Dane
+English Setter
+Cavalier King Charles Spaniel
+Bulldog
+Bull Terrier
+Boston Terrier
+Bichon Frise
+Bernese Mountain Dog
+Bearded Collie
+Basset Hound
+Basenji
+Australian Terrier
+Australian Shepherd
+Australian Silky Terrier
+Beagle
+Shar Pei
+Schnauzer
+Pug

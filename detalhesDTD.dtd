@@ -1,0 +1,31 @@
+<!ELEMENT detalhes ( breedDetail+ )>
+<!ATTLIST detalhes
+    xmlns:xsi CDATA #IMPLIED
+    xsi:noNamespaceSchemaLocation CDATA #IMPLIED
+>
+
+<!ELEMENT breedDetail ( breedId, fotoUrl, grupo, porte, cuidadosPelo, nivelExercicio, cores, paisOrigem, esperancaVida, tamanhoPelo, tamanhoDetalhes? )>
+
+<!ELEMENT breedId       ( #PCDATA )>
+<!ELEMENT fotoUrl       ( #PCDATA )>
+<!ELEMENT grupo         ( #PCDATA )>
+<!ELEMENT porte         ( #PCDATA )>
+<!ELEMENT cuidadosPelo  ( #PCDATA )>
+<!ELEMENT nivelExercicio ( #PCDATA )>
+<!ELEMENT cores         ( #PCDATA )>
+<!ELEMENT paisOrigem    ( #PCDATA )>
+<!ELEMENT esperancaVida ( #PCDATA )>
+<!ELEMENT tamanhoPelo   ( #PCDATA )>
+
+<!ELEMENT tamanhoDetalhes ( altura, peso )>
+
+<!ELEMENT altura ( macho?, femea?, geral? )>
+<!ELEMENT peso   ( macho?, femea?, geral? )>
+
+<!ELEMENT macho   ( min, max, unidade )>
+<!ELEMENT femea   ( min, max, unidade )>
+<!ELEMENT geral   ( min, max, unidade )>
+
+<!ELEMENT min     ( #PCDATA )>
+<!ELEMENT max     ( #PCDATA )>
+<!ELEMENT unidade ( #PCDATA )>

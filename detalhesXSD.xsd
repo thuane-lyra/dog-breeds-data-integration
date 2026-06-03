@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:complexType name="medidaType">
+        <xs:sequence>
+            <xs:element name="min"     type="xs:string"/>
+            <xs:element name="max"     type="xs:string"/>
+            <xs:element name="unidade" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="dimensaoType">
+        <xs:sequence>
+            <xs:element name="macho" type="medidaType" minOccurs="0"/>
+            <xs:element name="femea" type="medidaType" minOccurs="0"/>
+            <xs:element name="geral" type="medidaType" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="tamanhoDetalhesType">
+        <xs:sequence>
+            <xs:element name="altura" type="dimensaoType"/>
+            <xs:element name="peso"   type="dimensaoType"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="breedDetailType">
+        <xs:sequence>
+            <xs:element name="breedId"        type="xs:string"/>
+            <xs:element name="fotoUrl"        type="xs:string"/>
+            <xs:element name="grupo"          type="xs:string"/>
+            <xs:element name="porte"          type="xs:string"/>
+            <xs:element name="cuidadosPelo"   type="xs:string"/>
+            <xs:element name="nivelExercicio" type="xs:string"/>
+            <xs:element name="cores"          type="xs:string"/>
+            <xs:element name="paisOrigem"     type="xs:string"/>
+            <xs:element name="esperancaVida"  type="xs:string"/>
+            <xs:element name="tamanhoPelo"    type="xs:string"/>
+            <xs:element name="tamanhoDetalhes" type="tamanhoDetalhesType" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:element name="detalhes">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="breedDetail" type="breedDetailType" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>
