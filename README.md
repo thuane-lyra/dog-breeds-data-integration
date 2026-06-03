@@ -38,16 +38,20 @@ The system extracts information from two different web sources and resolves conf
   **Report Generation (XQuery)**: Integration with the **Saxon HE** engine to generate complex statistical reports, lifespan rankings, and breed distribution by groups, exporting the results to plain text (`.txt`).
 
 ---
+## Estrutura do Projeto
 
-##  Repository Structure
-
-├── docs/                      # Project documentation and Final Report
-├── src/main/java/             # Java source code (Wrappers, UI, Models, XML Functions)
-├── pom.xml                    # Maven configuration and dependencies
-├── racas.xml / detalhes.xml   # Generated structured database
-├── *.xsd / *.dtd              # Validation schema files (XML Schema and DTD)
-├── *.xsl                      # XSLT transformation files
-
+```text
+├── docs/                     # Project documentation and Final Report
+├── src/
+│   └── main/
+│       └── java/             # Java source code (Wrappers, UI, Models, XML Functions)
+├── pom.xml                   # Maven configuration and dependencies
+├── racas.xml                 # Generated structured database
+├── detalhes.xml              # Generated structured database
+├── *.xsd                     # Validation schema files (XML Schema)
+├── *.dtd                     # Validation schema files (DTD)
+└── *.xsl                     # XSLT transformation files
+```
 ##  Authors
 Maria Capitão
 
