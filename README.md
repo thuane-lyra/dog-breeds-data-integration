@@ -50,4 +50,5 @@ The system extracts information from two different web sources and resolves conf
 
 ##  Authors
 Maria Capitão
+
 Thuane Lyra
