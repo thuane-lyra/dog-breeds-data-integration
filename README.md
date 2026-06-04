@@ -38,7 +38,7 @@ The system extracts information from two different web sources and resolves conf
   **Report Generation (XQuery)**: Integration with the **Saxon HE** engine to generate complex statistical reports, lifespan rankings, and breed distribution by groups, exporting the results to plain text (`.txt`).
 
 ---
-## Estrutura do Projeto
+## Project Structure
 
 ```text
 ├── docs/                     # Project documentation and Final Report
@@ -53,6 +53,6 @@ The system extracts information from two different web sources and resolves conf
 └── *.xsl                     # XSLT transformation files
 ```
 ##  Authors
-Maria Capitão
-
 Thuane Lyra
+
+Maria Capitão
